@@ -1,0 +1,284 @@
+tr:first-child>td>.fc-day-grid-event {
+    border-left: 7px solid;
+}
+
+.fc-content {
+    text-align: left;
+}
+
+a.fc-day-grid-event {
+    border-left: 7px solid;
+}
+
+a.fc-time-grid-event {
+    border-left: 7px solid;
+}
+
+.fc-event .fc-content{
+    color: #fff !important;
+}
+
+.azul_claro input[type="checkbox"]:checked + label::before {
+    background-color: #0488bf;
+    border-color: #0488bf;
+}
+
+.azul_claro input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.azul_claro{
+    color: #0488bf;
+}
+
+.coral input[type="checkbox"]:checked + label::before {
+    background-color: #d86b67;
+    border-color: #d86b67;
+}
+
+.coral input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.coral{
+    color: #d86b67;
+}
+
+.azul_arandano input[type="checkbox"]:checked + label::before {
+    background-color: #232a44;
+    border-color: #232a44;
+}
+
+.azul_arandano input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.azul_arandano{
+    color: #232a44;
+}
+
+.azul_lavanda input[type="checkbox"]:checked + label::before {
+    background-color: #87ccdb;
+    border-color: #87ccdb;
+}
+
+.azul_lavanda input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.azul_lavanda{
+    color: #87ccdb;
+}
+
+.verde_claro input[type="checkbox"]:checked + label::before {
+    background-color: #23933e;
+    border-color: #23933e;
+}
+
+.verde_claro input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.verde_claro{
+    color: #23933e;
+}
+
+.naranja input[type="checkbox"]:checked + label::before {
+    background-color: #db9d25;
+    border-color: #db9d25;
+}
+
+.naranja input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.naranja{
+    color: #db9d25;
+}
+
+.gris input[type="checkbox"]:checked + label::before {
+    background-color: #dbdcde;
+    border-color: #dbdcde;
+}
+
+.gris input[type="checkbox"]:checked + label::after {
+    border-color: #353232;
+}
+
+.fc-event.gris{
+    color: #dbdcde;
+}
+
+.amarillo input[type="checkbox"]:checked + label::before {
+    background-color: #e6d94f;
+    border-color: #e6d94f;
+}
+
+.amarillo input[type="checkbox"]:checked + label::after {
+    border-color: #353232;
+}
+
+.fc-event.amarillo{
+    color: #e6d94f;
+}
+
+.tomate input[type="checkbox"]:checked + label::before {
+    background-color: #d50001;
+    border-color: #d50001;
+}
+
+.tomate input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.tomate{
+    color: #d50001;
+}
+
+.flamenco input[type="checkbox"]:checked + label::before {
+    background-color: #e77c75;
+    border-color: #e77c75;
+}
+
+.flamenco input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.flamenco{
+    color: #e77c75;
+}
+
+.mandarina input[type="checkbox"]:checked + label::before {
+    background-color: #f5511e;
+    border-color: #f5511e;
+}
+
+.mandarina input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.mandarina{
+    color: #f5511e;
+}
+
+.banana input[type="checkbox"]:checked + label::before {
+    background-color: #f7bf26;
+    border-color: #f7bf26;
+}
+
+.banana input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.banana{
+    color: #f7bf26;
+}
+
+.salvia input[type="checkbox"]:checked + label::before {
+    background-color: #32b679;
+    border-color: #32b679;
+}
+
+.salvia input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.salvia{
+    color: #32b679;
+}
+
+.albahaca input[type="checkbox"]:checked + label::before {
+    background-color: #0a8142;
+    border-color: #0a8142;
+}
+
+.albahaca input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.albahaca{
+    color: #0a8142;
+}
+
+.pavo_real input[type="checkbox"]:checked + label::before {
+    background-color: #039be6;
+    border-color: #039be6;
+}
+
+.pavo_real input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.pavo_real{
+    color: #039be6;
+}
+
+.arandano input[type="checkbox"]:checked + label::before {
+    background-color: #3f51b5;
+    border-color: #3f51b5;
+}
+
+.arandano input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.arandano{
+    color: #3f51b5;
+}
+
+.lavanda input[type="checkbox"]:checked + label::before {
+    background-color: #7a85cc;
+    border-color: #7a85cc;
+}
+
+.lavanda input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.lavanda{
+    color: #7a85cc;
+}
+
+.uva input[type="checkbox"]:checked + label::before {
+    background-color: #8e24aa;
+    border-color: #8e24aa;
+}
+
+.uva input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.uva{
+    color: #8e24aa;
+}
+
+.grafito input[type="checkbox"]:checked + label::before {
+    background-color: #606060;
+    border-color: #606060;
+}
+
+.grafito input[type="checkbox"]:checked + label::after {
+    border-color: #fff;
+}
+
+.fc-event.grafito{
+    color: #606060;
+}
+
+.fc-event {
+    border-radius: 4px;
+    border: none;
+    cursor: move;
+    font-size: 13px;
+    margin: 5px;
+    padding: 1px;
+    text-align: center;
+    background-color: rgba(80,110,228,0.18);
+    color: #506ee4;
+}
+
+a:not([href]):hover {
+    color: transparent;
+    filter: brightness(1.25);
+    text-decoration: none;
+}
